@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nehirwithkali
 - 👀 I’m interested in syber security.
-- I'm currently learning phyton.
+- I'm currently learning python.
